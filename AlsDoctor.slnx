@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AlsDoctor.Cli/AlsDoctor.Cli.csproj" />
+  <Project Path="AlsDoctor.Core/AlsDoctor.Core.csproj" />
+</Solution>
