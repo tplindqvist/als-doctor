@@ -37,7 +37,7 @@ Ableton's Live Set file format is undocumented. The structure described in
 [docs/als-format.md](docs/als-format.md) is based on my own notes from
 examining the files.
 
-Claude Code to reverse engineer and break the the Ableton Live Set (The .als file is just a gzip-compressed XML).
+Claude Code to reverse engineer and understand the structure of the Ableton Live Set (The .als file is just a gzip-compressed XML).
 
 ## License
 
